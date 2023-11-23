@@ -1,0 +1,3 @@
+[submodule "dependencies/libft"]
+	path = dependencies/libft
+	url = https://github.com/42-Lyon-Projects/libft.git
